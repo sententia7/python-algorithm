@@ -12,3 +12,18 @@ for i in range(n):
 
 print(min_a[0])
 
+
+
+# n, m = map(int, input().split())
+# result = 0
+#
+# for i in range(n):
+#     col = list(map(int, input().split()))
+#
+#     min_val = min(col)
+#     result = max(result, min_val)
+#
+# print(result)
+
+
+
