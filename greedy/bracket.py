@@ -18,7 +18,6 @@ for i in data[1:]:
         result -= int(j)
 print(result)
 
-
 # 런타임 에러
 # -기준으로 split 후 각 값들을 eval로 계산 시켜버리고 첫번째 [0]만 더하고 나머지는 빼버린다
 #05-01+40 할때 eval를 할때는 앞에 0이 있으면 안된다
